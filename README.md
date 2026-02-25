@@ -1,2 +1,2 @@
-# ASIPSI-lab1-LIMONADA-web-nou2
--Primul repo.
+# ASIPSI-LIMONADA-web
+Primul repo.
